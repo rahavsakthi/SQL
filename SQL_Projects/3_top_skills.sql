@@ -1,6 +1,6 @@
 /*
 What are the most in-demand skills for data analysts?
-Identify the top 10 in-demand skills for a data analyst.
+Identifying the top 10 in-demand skills for a data analyst.
 Focus on all job postings.
 Why? Retrieves the top 10 skills with the highest demand in the job market.
 */

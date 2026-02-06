@@ -72,6 +72,9 @@ LIMIT 25
 
 /*
 Analysis Breakdown:
+Cloud & data platform skills pay above average with strong demand Skills like Snowflake, Azure, AWS, BigQuery, Redshift combine solid posting counts with $105k–$113k avg salaries, showing companies pay a premium for analysts who work directly on cloud data warehouses.
+Programming + big data skills unlock salary upside Go, Hadoop, Spark, Java, Python consistently push salaries above or around $100k, especially when paired with large-scale data processing — signaling a shift toward analytics + engineering hybrid roles.
+Core analytics tools remain highly demanded, but cap salary Tools like Python, R, Tableau, Looker, SQL Server appear most frequently, but salaries cluster around $98k–$103k, meaning they’re essential for entry and mid-level roles but not strong differentiators for top pay.
 
 [
   {

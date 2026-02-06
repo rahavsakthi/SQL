@@ -96,7 +96,7 @@ INNER JOIN skills_job_dim ON top_job.job_id = skills_job_dim.job_id
 INNER JOIN skills_dim ON skills_dim.skill_id =skills_job_dim.skill_id
 ```
 
-![alt text](SQL_Projects\Assests\2.jpg)
+![alt text](SQL_Projects/Assests/2.jpg)
 
 Analysis Breakdown:
 
@@ -129,7 +129,7 @@ ORDER BY
     skill_count DESC
 LIMIT 10
 ```
-![Alt_text](SQL_Projects\Assests\3.jpg)
+![Alt_text](SQL_Projects/Assests/3.jpg)
 
 Analysis Breakdown:
 
@@ -164,7 +164,7 @@ ORDER BY
     avg_salary DESC
 LIMIT 25
 ```
-![ALT_TEXT](SQL_Projects\Assests\4.jpg)
+![ALT_TEXT](SQL_Projects/Assests/4.jpg)
 
 Analysis Breakdown:
  - **Big Data & ML skills drive top pay** – PySpark, Couchbase, DataRobot, and Python libraries (Pandas, NumPy) are highly valued for scalable analytics and predictive modeling.
@@ -222,7 +222,7 @@ ORDER BY
     skill_count DESC
 LIMIT 25
 ```
-![ALt_text](SQL_Projects\Assests\5.jpg)
+![ALt_text](SQL_Projects/Assests/5.jpg)
 
 Analysis Breakdown:
 
